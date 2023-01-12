@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.AssemblyInfo.cs
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MethodTasks\MethodTasks\bin\Debug\net6.0\MethodTasks.exe
+C:\Users\User\Desktop\MethodTasks\MethodTasks\bin\Debug\net6.0\MethodTasks.deps.json
+C:\Users\User\Desktop\MethodTasks\MethodTasks\bin\Debug\net6.0\MethodTasks.runtimeconfig.json
+C:\Users\User\Desktop\MethodTasks\MethodTasks\bin\Debug\net6.0\MethodTasks.dll
+C:\Users\User\Desktop\MethodTasks\MethodTasks\bin\Debug\net6.0\MethodTasks.pdb
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.dll
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\refint\MethodTasks.dll
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.pdb
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\MethodTasks.genruntimeconfig.cache
+C:\Users\User\Desktop\MethodTasks\MethodTasks\obj\Debug\net6.0\ref\MethodTasks.dll
