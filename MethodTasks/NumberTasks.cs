@@ -15,7 +15,6 @@ namespace MethodTasks
 
             int r;
             int reverse = 0;
-            int length = (int)Math.Log10(n) + 1;
            
             while (n != 0)
             {
