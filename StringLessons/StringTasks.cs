@@ -58,11 +58,21 @@ namespace StringLessons
                     {
                         int a = (s[i] - 64 - k) % 26 + 64;
                         result += (char)a;
+
+                        if (a <= 64)
+                        {
+                            a = a + 26;
+                        }
                     }
                     else
                     {
                         int A = (s[i] - 96 - k) % 26 + 96;
                         result += (char)A;
+
+                        if (A <= 96)
+                        {
+                            a = a + 26;
+                        }
                     }
                 }
                 else
