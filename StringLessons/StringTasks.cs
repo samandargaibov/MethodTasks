@@ -57,29 +57,30 @@ namespace StringLessons
                     if (char.IsUpper(s[i]))
                     {
                         int a = (s[i] - 64 - k) % 26 + 64;
-                        result += (char)a;
 
                         if (a <= 64)
                         {
                             a = a + 26;
+                            
                         }
+                        result += (char)a;
                     }
                     else
                     {
                         int A = (s[i] - 96 - k) % 26 + 96;
-                        result += (char)A;
 
                         if (A <= 96)
                         {
-                            a = a + 26;
+                            A = A + 26;
+                            
                         }
+                        result += (char)A;
                     }
                 }
                 else
                 {
                     result += s[i];
                 }
-
             }
 
             return result;
